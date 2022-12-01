@@ -27,7 +27,7 @@
 
   ## How to Contribute
   [Contributor Covenant](https://www.contributor-covenant.org/)  
-  email
+
 
   ## Tests
   no tests available
