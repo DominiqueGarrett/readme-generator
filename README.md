@@ -26,7 +26,7 @@
   After using the node index.js command, running the app is simple! You will be given a number of prompts to answer. Once you answer all of the questions the README.md file will be created in your project.
   
   Video of the application in use: 
-  https://drive.google.com/file/d/1zNUBzjvBJmGaO-rHR98Um4kc9fb_hGmF/preview" 
+  https://drive.google.com/file/d/1zNUBzjvBJmGaO-rHR98Um4kc9fb_hGmF/preview
 
   ## How to Contribute
   [Contributor Covenant](https://www.contributor-covenant.org/)  
